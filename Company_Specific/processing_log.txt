@@ -1,0 +1,136 @@
+2025-10-27 17:30:35 | INFO | 🔹 Loading model: yiyanghkust/finbert-tone
+2025-10-27 17:33:10 | INFO | 🔹 Loading model: yiyanghkust/finbert-tone
+2025-10-27 17:36:37 | INFO | 🔹 Loading model: yiyanghkust/finbert-tone
+2025-10-27 17:37:11 | INFO | 🔹 Loading model: yiyanghkust/finbert-tone
+2025-10-27 17:37:16 | INFO | ✅ Model loaded successfully.
+2025-10-27 17:37:16 | INFO | 
+🔍 Processing XOM_stock_gdelt_final.csv ...
+2025-10-27 17:37:16 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 17:37:17 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 17:41:02 | INFO | ✅ Saved processed file to ./Processed/XOM_stock_gdelt_final.csv | ⏱️ 225.91 sec
+2025-10-27 17:41:02 | INFO | 
+🔍 Processing MSFT_stock_gdelt_final.csv ...
+2025-10-27 17:41:02 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 17:41:02 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 17:45:24 | INFO | ✅ Saved processed file to ./Processed/MSFT_stock_gdelt_final.csv | ⏱️ 261.30 sec
+2025-10-27 17:45:24 | INFO | 
+🔍 Processing V_stock_gdelt_final.csv ...
+2025-10-27 17:45:24 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 17:45:24 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 17:47:56 | INFO | ✅ Saved processed file to ./Processed/V_stock_gdelt_final.csv | ⏱️ 152.36 sec
+2025-10-27 17:47:56 | INFO | 
+🔍 Processing PFE_stock_gdelt_final.csv ...
+2025-10-27 17:47:56 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 17:47:56 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 17:47:56 | ERROR | ❌ Error processing PFE_stock_gdelt_final.csv: 'Headlines'
+2025-10-27 17:47:56 | INFO | 
+🔍 Processing NVDA_stock_gdelt_final.csv ...
+2025-10-27 17:47:56 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 17:47:56 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 17:51:38 | INFO | ✅ Saved processed file to ./Processed/NVDA_stock_gdelt_final.csv | ⏱️ 222.33 sec
+2025-10-27 17:51:38 | INFO | 
+🔍 Processing AMZN_stock_gdelt_final.csv ...
+2025-10-27 17:51:39 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 17:51:39 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 17:55:27 | INFO | ✅ Saved processed file to ./Processed/AMZN_stock_gdelt_final.csv | ⏱️ 228.18 sec
+2025-10-27 17:55:27 | INFO | 
+🔍 Processing GOOG_stock_gdelt_final.csv ...
+2025-10-27 17:55:27 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 17:55:27 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 17:58:47 | INFO | ✅ Saved processed file to ./Processed/GOOG_stock_gdelt_final.csv | ⏱️ 200.45 sec
+2025-10-27 17:58:47 | INFO | 
+🔍 Processing TSLA_stock_gdelt_final.csv ...
+2025-10-27 17:58:47 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 17:58:47 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 18:03:39 | INFO | ✅ Saved processed file to ./Processed/TSLA_stock_gdelt_final.csv | ⏱️ 292.04 sec
+2025-10-27 18:03:39 | INFO | 
+🔍 Processing JPM_stock_gdelt_final.csv ...
+2025-10-27 18:03:39 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 18:03:39 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 18:07:24 | INFO | ✅ Saved processed file to ./Processed/JPM_stock_gdelt_final.csv | ⏱️ 225.25 sec
+2025-10-27 18:07:24 | INFO | 
+🔍 Processing AAPL_stock_gdelt_final.csv ...
+2025-10-27 18:07:24 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 18:07:24 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 18:10:35 | INFO | ✅ Saved processed file to ./Processed/AAPL_stock_gdelt_final.csv | ⏱️ 190.58 sec
+2025-10-27 18:10:35 | INFO | 
+🏁 All files processed successfully in 33.31 minutes.
+2025-10-27 18:19:32 | INFO | 🔹 Loading model: yiyanghkust/finbert-tone
+2025-10-27 18:19:43 | INFO | ✅ Model loaded successfully.
+2025-10-27 18:19:43 | INFO | 
+🔍 Processing /home/sunkari/Stock_price_predictor/Dataset/PFE_stock_gdelt_final.csv ...
+2025-10-27 18:19:43 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 18:19:43 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 18:22:57 | INFO | ✅ Saved processed file to /home/sunkari/Stock_price_predictor/Dataset/PFE_stock_gdelt_final.csv | ⏱️ 193.82 sec
+2025-10-27 18:22:57 | INFO | 
+🏁 All files processed successfully in 3.23 minutes.
+2025-10-27 21:39:05 | INFO | 🔹 Loading model: yiyanghkust/finbert-tone
+2025-10-27 21:39:09 | INFO | ✅ Model loaded successfully.
+2025-10-27 21:39:09 | INFO | 
+🔍 Processing XOM_stock_gdelt_final.csv ...
+2025-10-27 21:39:09 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 21:39:09 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 21:42:37 | INFO | ✅ Saved train/test split for XOM_stock_gdelt_final.csv | Train=802, Test=201 | ⏱️ 208.39s
+2025-10-27 21:42:37 | INFO | 
+🔍 Processing MSFT_stock_gdelt_final.csv ...
+2025-10-27 21:42:37 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 21:42:37 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 21:45:20 | INFO | ✅ Saved train/test split for MSFT_stock_gdelt_final.csv | Train=802, Test=201 | ⏱️ 163.16s
+2025-10-27 21:45:20 | INFO | 
+🔍 Processing V_stock_gdelt_final.csv ...
+2025-10-27 21:45:20 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 21:45:20 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 21:46:36 | INFO | 🔹 Loading model: yiyanghkust/finbert-tone
+2025-10-27 21:46:41 | INFO | ✅ Model loaded successfully.
+2025-10-27 21:46:41 | INFO | 
+🔍 Processing XOM_stock_gdelt_final.csv ...
+2025-10-27 21:46:41 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 21:46:41 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 21:49:47 | INFO | ✅ Saved train/test split for XOM_stock_gdelt_final.csv | Train=802, Test=201 | ⏱️ 185.98s
+2025-10-27 21:49:47 | INFO | 
+🔍 Processing MSFT_stock_gdelt_final.csv ...
+2025-10-27 21:49:47 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 21:49:47 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 21:53:27 | INFO | ✅ Saved train/test split for MSFT_stock_gdelt_final.csv | Train=802, Test=201 | ⏱️ 220.27s
+2025-10-27 21:53:27 | INFO | 
+🔍 Processing V_stock_gdelt_final.csv ...
+2025-10-27 21:53:27 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 21:53:27 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 21:56:03 | INFO | ✅ Saved train/test split for V_stock_gdelt_final.csv | Train=802, Test=201 | ⏱️ 156.33s
+2025-10-27 21:56:03 | INFO | 
+🔍 Processing PFE_stock_gdelt_final.csv ...
+2025-10-27 21:56:03 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 21:56:03 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 22:00:10 | INFO | ✅ Saved train/test split for PFE_stock_gdelt_final.csv | Train=802, Test=201 | ⏱️ 246.90s
+2025-10-27 22:00:10 | INFO | 
+🔍 Processing NVDA_stock_gdelt_final.csv ...
+2025-10-27 22:00:10 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 22:00:10 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 22:03:32 | INFO | ✅ Saved train/test split for NVDA_stock_gdelt_final.csv | Train=802, Test=201 | ⏱️ 201.23s
+2025-10-27 22:03:32 | INFO | 
+🔍 Processing AMZN_stock_gdelt_final.csv ...
+2025-10-27 22:03:32 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 22:03:32 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 22:06:20 | INFO | ✅ Saved train/test split for AMZN_stock_gdelt_final.csv | Train=802, Test=201 | ⏱️ 168.71s
+2025-10-27 22:06:20 | INFO | 
+🔍 Processing GOOG_stock_gdelt_final.csv ...
+2025-10-27 22:06:20 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 22:06:20 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 22:10:03 | INFO | ✅ Saved train/test split for GOOG_stock_gdelt_final.csv | Train=802, Test=201 | ⏱️ 222.84s
+2025-10-27 22:10:03 | INFO | 
+🔍 Processing TSLA_stock_gdelt_final.csv ...
+2025-10-27 22:10:03 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 22:10:03 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 22:14:36 | INFO | ✅ Saved train/test split for TSLA_stock_gdelt_final.csv | Train=802, Test=201 | ⏱️ 273.02s
+2025-10-27 22:14:36 | INFO | 
+🔍 Processing JPM_stock_gdelt_final.csv ...
+2025-10-27 22:14:36 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 22:14:36 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 22:18:16 | INFO | ✅ Saved train/test split for JPM_stock_gdelt_final.csv | Train=802, Test=201 | ⏱️ 219.45s
+2025-10-27 22:18:16 | INFO | 
+🔍 Processing AAPL_stock_gdelt_final.csv ...
+2025-10-27 22:18:16 | INFO | 📂 Loaded file with 1003 rows.
+2025-10-27 22:18:16 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-10-27 22:21:18 | INFO | ✅ Saved train/test split for AAPL_stock_gdelt_final.csv | Train=802, Test=201 | ⏱️ 182.31s
+2025-10-27 22:21:18 | INFO | 
+🏁 All files processed successfully in 34.62 minutes.
