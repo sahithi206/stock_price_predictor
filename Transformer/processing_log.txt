@@ -1,0 +1,80 @@
+2025-11-05 09:50:13 | INFO | 🔹 Loading model: yiyanghkust/finbert-tone
+2025-11-05 09:50:16 | INFO | ✅ Model loaded successfully.
+2025-11-05 09:50:16 | INFO | 
+🔍 Processing XOM_stock_gdelt_final.csv ...
+2025-11-05 09:50:17 | INFO | 📂 Loaded file with 1003 rows.
+2025-11-05 09:50:17 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-11-05 09:51:40 | INFO | ✅ Saved data split for XOM_stock_gdelt_final.csv | data=1003 | ⏱️ 83.99s
+2025-11-05 09:51:40 | INFO | 
+🔍 Processing MSFT_stock_gdelt_final.csv ...
+2025-11-05 09:51:40 | INFO | 📂 Loaded file with 1003 rows.
+2025-11-05 09:51:41 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-11-05 09:53:45 | INFO | ✅ Saved data split for MSFT_stock_gdelt_final.csv | data=1003 | ⏱️ 124.77s
+2025-11-05 09:53:45 | INFO | 
+🔍 Processing V_stock_gdelt_final.csv ...
+2025-11-05 09:53:45 | INFO | 📂 Loaded file with 1003 rows.
+2025-11-05 09:53:45 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-11-05 09:55:12 | INFO | ✅ Saved data split for V_stock_gdelt_final.csv | data=1003 | ⏱️ 86.65s
+2025-11-05 09:55:12 | INFO | 
+🔍 Processing PFE_stock_gdelt_final.csv ...
+2025-11-05 09:55:12 | INFO | 📂 Loaded file with 1003 rows.
+2025-11-05 09:55:12 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-11-05 09:57:10 | INFO | ✅ Saved data split for PFE_stock_gdelt_final.csv | data=1003 | ⏱️ 118.44s
+2025-11-05 09:57:10 | INFO | 
+🔍 Processing NVDA_stock_gdelt_final.csv ...
+2025-11-05 09:57:10 | INFO | 📂 Loaded file with 1003 rows.
+2025-11-05 09:57:10 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-11-05 09:58:26 | INFO | 🔹 Loading model: yiyanghkust/finbert-tone
+2025-11-05 09:58:29 | INFO | ✅ Model loaded successfully.
+2025-11-05 09:58:29 | INFO | 
+🔍 Processing XOM_stock_gdelt_final.csv ...
+2025-11-05 09:58:29 | INFO | 📂 Loaded file with 1003 rows.
+2025-11-05 09:58:29 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-11-05 09:59:53 | INFO | ✅ Saved data split for XOM_stock_gdelt_final.csv | data=1003 | ⏱️ 84.51s
+2025-11-05 09:59:53 | INFO | 
+🔍 Processing MSFT_stock_gdelt_final.csv ...
+2025-11-05 09:59:53 | INFO | 📂 Loaded file with 1003 rows.
+2025-11-05 09:59:53 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-11-05 10:01:55 | INFO | ✅ Saved data split for MSFT_stock_gdelt_final.csv | data=1003 | ⏱️ 121.43s
+2025-11-05 10:01:55 | INFO | 
+🔍 Processing V_stock_gdelt_final.csv ...
+2025-11-05 10:01:55 | INFO | 📂 Loaded file with 1003 rows.
+2025-11-05 10:01:55 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-11-05 10:03:21 | INFO | ✅ Saved data split for V_stock_gdelt_final.csv | data=1003 | ⏱️ 86.66s
+2025-11-05 10:03:21 | INFO | 
+🔍 Processing PFE_stock_gdelt_final.csv ...
+2025-11-05 10:03:21 | INFO | 📂 Loaded file with 1003 rows.
+2025-11-05 10:03:21 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-11-05 10:05:20 | INFO | ✅ Saved data split for PFE_stock_gdelt_final.csv | data=1003 | ⏱️ 118.35s
+2025-11-05 10:05:20 | INFO | 
+🔍 Processing NVDA_stock_gdelt_final.csv ...
+2025-11-05 10:05:20 | INFO | 📂 Loaded file with 1003 rows.
+2025-11-05 10:05:20 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-11-05 10:07:07 | INFO | ✅ Saved data split for NVDA_stock_gdelt_final.csv | data=1003 | ⏱️ 107.72s
+2025-11-05 10:07:07 | INFO | 
+🔍 Processing AMZN_stock_gdelt_final.csv ...
+2025-11-05 10:07:07 | INFO | 📂 Loaded file with 1003 rows.
+2025-11-05 10:07:07 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-11-05 10:09:00 | INFO | ✅ Saved data split for AMZN_stock_gdelt_final.csv | data=1003 | ⏱️ 112.65s
+2025-11-05 10:09:00 | INFO | 
+🔍 Processing GOOG_stock_gdelt_final.csv ...
+2025-11-05 10:09:00 | INFO | 📂 Loaded file with 1003 rows.
+2025-11-05 10:09:00 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-11-05 10:11:11 | INFO | ✅ Saved data split for GOOG_stock_gdelt_final.csv | data=1003 | ⏱️ 130.65s
+2025-11-05 10:11:11 | INFO | 
+🔍 Processing TSLA_stock_gdelt_final.csv ...
+2025-11-05 10:11:11 | INFO | 📂 Loaded file with 1003 rows.
+2025-11-05 10:11:11 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-11-05 10:13:28 | INFO | ✅ Saved data split for TSLA_stock_gdelt_final.csv | data=1003 | ⏱️ 137.65s
+2025-11-05 10:13:28 | INFO | 
+🔍 Processing JPM_stock_gdelt_final.csv ...
+2025-11-05 10:13:28 | INFO | 📂 Loaded file with 1003 rows.
+2025-11-05 10:13:28 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-11-05 10:15:36 | INFO | ✅ Saved data split for JPM_stock_gdelt_final.csv | data=1003 | ⏱️ 127.95s
+2025-11-05 10:15:36 | INFO | 
+🔍 Processing AAPL_stock_gdelt_final.csv ...
+2025-11-05 10:15:36 | INFO | 📂 Loaded file with 1003 rows.
+2025-11-05 10:15:36 | INFO | 🗓️ Normalized dates, 1003 rows remain after cleaning.
+2025-11-05 10:17:22 | INFO | ✅ Saved data split for AAPL_stock_gdelt_final.csv | data=1003 | ⏱️ 105.91s
+2025-11-05 10:17:22 | INFO | 
+🏁 All files processed successfully in 18.89 minutes.
