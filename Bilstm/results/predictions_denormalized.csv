@@ -1,4 +1,4 @@
-Company,True_Price,Predicted_Price
+Company,Target,Predicted
 AAPL_stock_gdelt_final_train,175.7400043336177,150.52131556473026
 MSFT_stock_gdelt_final_train,437.4200185129303,442.3371493653395
 AAPL_stock_gdelt_final_train,168.82000832051762,169.97370946127808
